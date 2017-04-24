@@ -1,0 +1,12 @@
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\bin\Debug\ArduinoAlert.exe.config
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\bin\Debug\ArduinoAlert.exe
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\bin\Debug\ArduinoAlert.pdb
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.csprojResolveAssemblyReference.cache
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.ArduinoAlert.resources
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.Properties.Resources.resources
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.csproj.GenerateResource.Cache
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.exe
+c:\users\jim\documents\visual studio 2015\Projects\ArduinoAlert\ArduinoAlert\obj\Debug\ArduinoAlert.pdb
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\ArduinoAlert2\ArduinoAlert\bin\Debug\ArduinoAlert.exe.config
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\ArduinoAlert2\ArduinoAlert\obj\Debug\ArduinoAlert.exe
+C:\Users\Jim\Documents\Visual Studio 2015\Projects\ArduinoAlert2\ArduinoAlert\obj\Debug\ArduinoAlert.pdb
